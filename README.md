@@ -20,33 +20,6 @@ O **TnD Scout Mobile** é o aplicativo companheiro oficial da plataforma **TnD S
 - **📡 Sensores & Trocas Físicas**: Alertas visuais e monitoramento de idade do sensor CGM (SAGE) e cateter da bomba de insulina (CAGE).
 - **📑 Relatório Médico Completo**: Aba dedicada para visualização de métricas de TIR (Tempo na Faixa) diárias e horárias, além de exportação de relatórios em PDF.
 
----
-
-## 🛠️ Como Executar o Projeto Localmente
-
-### Pré-requisitos
-Certifique-se de ter instalado em sua máquina de desenvolvimento:
-- [Node.js](https://nodejs.org/) (versão LTS recomendada)
-- [Expo CLI](https://docs.expo.dev/)
-- [Android Studio](https://developer.android.com/studio) (para emulador Android) ou [Xcode](https://developer.apple.com/xcode/) (para emulador iOS)
-
-### Passos de Inicialização
-
-1. **Instalar Dependências**:
-   No terminal, navegue até a pasta do projeto e execute:
-   ```bash
-   npm install
-   ```
-
-2. **Iniciar o Servidor do Expo**:
-   ```bash
-   npx expo start
-   ```
-
-3. **Executar no Emulador**:
-   - Pressione **`a`** para rodar no Android.
-   - Pressione **`i`** para rodar no iOS (apenas macOS).
-   - Ou escaneie o código QR exibido na tela usando o aplicativo **Expo Go** em seu smartphone físico.
 
 ---
 
